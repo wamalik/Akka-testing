@@ -1,0 +1,12 @@
+com\m800\utilities\LoggingMessages.class
+com\m800\events\EndOfFile.class
+com\m800\utilities\Constants.class
+com\m800\actors\FileParser$Parse.class
+com\m800\actorsystem\App.class
+com\m800\events\Line.class
+com\m800\events\StartOfFile.class
+com\m800\actors\Aggregator.class
+com\m800\actors\FileScanner.class
+com\m800\actors\FileParser$1.class
+com\m800\actors\FileParser.class
+com\m800\actors\FileScanner$Scan.class
